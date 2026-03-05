@@ -16,3 +16,8 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+button:hover {
+    background-color: #4a90e2;
+    color: white;
+}
