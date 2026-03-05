@@ -17,6 +17,8 @@ $title = "Git Workflow Simulation";
 
     <p>Selamat datang di praktikum Git Workflow.</p>
 
+    <p>Halaman ini digunakan untuk mensimulasikan penggunaan Git dan GitHub dalam pengembangan perangkat lunak secara kolaboratif.</p>
+
     <button onclick="showMessage()">Klik Saya</button>
 
     <script src="script.js"></script>
