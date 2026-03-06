@@ -28,3 +28,24 @@ button:hover {
 .dark-mode h1 {
     color: white;
 }
+
+.container {
+    background-color: white;
+    width: 400px;
+    margin:auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.time {
+    color: #500;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+footer {
+    margin-top: 40px;
+    color: #777;
+    font-size: 14px;
+}
+
