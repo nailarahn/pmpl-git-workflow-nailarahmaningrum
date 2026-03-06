@@ -19,6 +19,8 @@ $title = "Git Workflow Simulation";
 
     <p>Tanggal hari ini: <?php echo date("l, d F Y"); ?></p>
 
+    <p>Jumlah klik: <span id="counter">0</span></p>
+
     <button onclick="showMessage()">Klik Saya</button>
 
     <script src="script.js"></script>
