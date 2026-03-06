@@ -17,6 +17,10 @@ $title = "Git Workflow Simulation";
 
     <p>Selamat datang di praktikum Git Workflow.</p>
 
+    <p class="time">
+        Halaman ini diakses pada: <?php echo date("d M Y - H:i:s"); ?>
+    </p>
+    
     <button onclick="showMessage()">Klik Saya</button>
 
     <script src="script.js"></script>
