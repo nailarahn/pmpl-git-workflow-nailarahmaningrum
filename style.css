@@ -19,5 +19,12 @@ button {
 
 button:hover {
     background-color: #4a90e2;
+}
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+
+.dark-mode h1 {
     color: white;
 }

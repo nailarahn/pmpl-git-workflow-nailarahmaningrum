@@ -19,7 +19,12 @@ $title = "Git Workflow Simulation";
 
     <p>Halaman ini digunakan untuk mensimulasikan penggunaan Git dan GitHub dalam pengembangan perangkat lunak secara kolaboratif.</p>
 
+    <p>Tanggal hari ini: <?php echo date("l, d F Y"); ?></p>
+
+    <p>Jumlah klik: <span id="counter">0</span></p>
     <button onclick="showMessage()">Klik Saya</button>
+
+    <button onclick="toggleMode()">Dark / Light Mode</button>
 
     <script src="script.js"></script>
 </body>
