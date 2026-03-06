@@ -23,6 +23,8 @@ $title = "Git Workflow Simulation";
 
     <button onclick="showMessage()">Klik Saya</button>
 
+    <button onclick="toggleMode()">Dark / Light Mode</button>
+
     <script src="script.js"></script>
 </body>
 </html>

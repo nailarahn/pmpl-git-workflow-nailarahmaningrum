@@ -10,3 +10,7 @@ function showMessage() {
 }
 
 console.log("Git Workflow Simulation loaded.");
+
+function toggleMode() {
+    document.body.classList.toggle("dark-mode");
+}
